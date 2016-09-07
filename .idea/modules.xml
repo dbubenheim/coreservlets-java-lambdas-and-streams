@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-lambdas-and-streams.iml" filepath="$PROJECT_DIR$/.idea/modules/java-lambdas-and-streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-lambdas-and-streams_main.iml" filepath="$PROJECT_DIR$/.idea/modules/java-lambdas-and-streams_main.iml" group="java-lambdas-and-streams" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-lambdas-and-streams_test.iml" filepath="$PROJECT_DIR$/.idea/modules/java-lambdas-and-streams_test.iml" group="java-lambdas-and-streams" />
+    </modules>
+  </component>
+</project>
