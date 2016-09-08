@@ -24,11 +24,11 @@ public class ExerciseLambdas1 {
         Arrays.sort(strings, (a, b) -> a.charAt(0) - b.charAt(0));
         System.out.printf("sorted: %s%n", Arrays.asList(strings));
 
-        // alphabetically
+        // sort by first character
         Arrays.sort(strings, (a, b) -> (a.charAt(0) == 'e') ? -1 : +1);
         System.out.printf("sorted: %s%n", Arrays.asList(strings));
 
-        // alphabetically
+        // sort by first character - static method
         Arrays.sort(strings, SortUtils.sortByLowercaseE());
         System.out.printf("sorted: %s%n", Arrays.asList(strings));
     }
